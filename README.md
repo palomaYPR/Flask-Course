@@ -1,2 +1,2 @@
-# Flask-Course
+# To Do List
 Code generated from the "Flask Course" course taught by Bernando Cassina @Platzi.
