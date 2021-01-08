@@ -1,2 +1,2 @@
 # To Do List
-Code generated from the "Flask Course" course taught by Bernando Cassina @Platzi.
+Task management system developed with Flask and Google Cloud DataStore for the database.
