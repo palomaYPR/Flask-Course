@@ -1,2 +1,2 @@
-# Flask-Course
-Code generated from the "Flask Course" course taught by Bernando Cassina @Platzi.
+# To Do List
+Task management system developed with Flask and Google Cloud DataStore for the database.
